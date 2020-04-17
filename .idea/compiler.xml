@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shanjupay-payment-agent-api" />
+        <module name="shanjupay-transaction-api" />
+        <module name="shanjupay-user-service" />
+        <module name="shanjupay-merchant-api" />
+        <module name="shanjupay-transaction-service" />
+        <module name="shanjupay-uaa-service" />
+        <module name="shanjupay-uaa-api" />
+        <module name="shanjupay-payment-agent-service" />
+        <module name="shanjupay-gateway-service" />
+        <module name="shanjupay-merchant-application" />
+        <module name="rocketmq-consumer" />
+        <module name="shanjupay-common" />
+        <module name="shanjupay-user-api" />
+        <module name="rocketmq-producer" />
+        <module name="shanjupay-merchant-service" />
+        <module name="test-freemarker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rocketmq-consumer" target="1.8" />
+      <module name="rocketmq-producer" target="1.8" />
+      <module name="shanjupay" target="1.8" />
+      <module name="shanjupay-common" target="1.8" />
+      <module name="shanjupay-gateway" target="1.8" />
+      <module name="shanjupay-gateway-service" target="1.8" />
+      <module name="shanjupay-merchant" target="1.8" />
+      <module name="shanjupay-merchant-api" target="1.8" />
+      <module name="shanjupay-merchant-application" target="1.8" />
+      <module name="shanjupay-merchant-service" target="1.8" />
+      <module name="shanjupay-payment-agent" target="1.8" />
+      <module name="shanjupay-payment-agent-api" target="1.8" />
+      <module name="shanjupay-payment-agent-service" target="1.8" />
+      <module name="shanjupay-transaction" target="1.8" />
+      <module name="shanjupay-transaction-api" target="1.8" />
+      <module name="shanjupay-transaction-service" target="1.8" />
+      <module name="shanjupay-uaa" target="1.8" />
+      <module name="shanjupay-uaa-api" target="1.8" />
+      <module name="shanjupay-uaa-service" target="1.8" />
+      <module name="shanjupay-user" target="1.8" />
+      <module name="shanjupay-user-api" target="1.8" />
+      <module name="shanjupay-user-service" target="1.8" />
+      <module name="test-freemarker" target="1.8" />
+      <module name="test-rocketmq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="rocketmq-consumer" options="-parameters" />
+      <module name="rocketmq-producer" options="-parameters" />
+      <module name="shanjupay-common" options="-parameters -bootclasspath /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar;/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jce.jar" />
+      <module name="shanjupay-gateway-service" options="-parameters" />
+      <module name="shanjupay-merchant-api" options="-parameters" />
+      <module name="shanjupay-merchant-application" options="-parameters" />
+      <module name="shanjupay-merchant-service" options="-parameters" />
+      <module name="shanjupay-payment-agent-api" options="-parameters -bootclasspath /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar;/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jce.jar" />
+      <module name="shanjupay-payment-agent-service" options="-parameters" />
+      <module name="shanjupay-transaction-api" options="-parameters -bootclasspath /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar;/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jce.jar" />
+      <module name="shanjupay-transaction-service" options="-parameters" />
+      <module name="shanjupay-uaa-api" options="-parameters -bootclasspath /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar;/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jce.jar" />
+      <module name="shanjupay-uaa-service" options="-parameters" />
+      <module name="shanjupay-user-api" options="-parameters -bootclasspath /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar;/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jce.jar" />
+      <module name="shanjupay-user-service" options="-parameters" />
+      <module name="test-freemarker" options="-parameters" />
+    </option>
+  </component>
+</project>

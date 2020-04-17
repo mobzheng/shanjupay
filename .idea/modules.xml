@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-rocketmq/rocketmq-consumer/rocketmq-consumer.iml" filepath="$PROJECT_DIR$/test-rocketmq/rocketmq-consumer/rocketmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rocketmq/rocketmq-producer/rocketmq-producer.iml" filepath="$PROJECT_DIR$/test-rocketmq/rocketmq-producer/rocketmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shanjupay.iml" filepath="$PROJECT_DIR$/.idea/shanjupay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-common/shanjupay-common.iml" filepath="$PROJECT_DIR$/shanjupay-common/shanjupay-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-gateway/shanjupay-gateway.iml" filepath="$PROJECT_DIR$/shanjupay-gateway/shanjupay-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-gateway/shanjupay-gateway-service/shanjupay-gateway-service.iml" filepath="$PROJECT_DIR$/shanjupay-gateway/shanjupay-gateway-service/shanjupay-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant.iml" filepath="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-api/shanjupay-merchant-api.iml" filepath="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-api/shanjupay-merchant-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-merchant-application/shanjupay-merchant-application.iml" filepath="$PROJECT_DIR$/shanjupay-merchant-application/shanjupay-merchant-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-service/shanjupay-merchant-service.iml" filepath="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-service/shanjupay-merchant-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent.iml" filepath="$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent-api/shanjupay-payment-agent-api.iml" filepath="$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent-api/shanjupay-payment-agent-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent-service/shanjupay-payment-agent-service.iml" filepath="$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent-service/shanjupay-payment-agent-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction.iml" filepath="$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-api/shanjupay-transaction-api.iml" filepath="$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-api/shanjupay-transaction-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-service/shanjupay-transaction-service.iml" filepath="$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-service/shanjupay-transaction-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-uaa/shanjupay-uaa.iml" filepath="$PROJECT_DIR$/shanjupay-uaa/shanjupay-uaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-uaa/shanjupay-uaa-api/shanjupay-uaa-api.iml" filepath="$PROJECT_DIR$/shanjupay-uaa/shanjupay-uaa-api/shanjupay-uaa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-uaa/shanjupay-uaa-service/shanjupay-uaa-service.iml" filepath="$PROJECT_DIR$/shanjupay-uaa/shanjupay-uaa-service/shanjupay-uaa-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-user/shanjupay-user.iml" filepath="$PROJECT_DIR$/shanjupay-user/shanjupay-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-user/shanjupay-user-api/shanjupay-user-api.iml" filepath="$PROJECT_DIR$/shanjupay-user/shanjupay-user-api/shanjupay-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanjupay-user/shanjupay-user-service/shanjupay-user-service.iml" filepath="$PROJECT_DIR$/shanjupay-user/shanjupay-user-service/shanjupay-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-freemarker/test-freemarker.iml" filepath="$PROJECT_DIR$/test-freemarker/test-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rocketmq/test-rocketmq.iml" filepath="$PROJECT_DIR$/test-rocketmq/test-rocketmq.iml" />
+    </modules>
+  </component>
+</project>

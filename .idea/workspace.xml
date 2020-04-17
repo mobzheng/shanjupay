@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>okhttp</find>
+      <find>应用</find>
+      <find>E_300010</find>
+      <find>queryPayChannelParamByAppAndPlatform</find>
+      <find>queryMerchantById</find>
+      <find>freemarker</find>
+      <find>getWXOAuth2Code</find>
+      <find>changeF2Y</find>
+      <find>stus2</find>
+      <find>stu.name</find>
+      <find>stus</find>
+      <find>E_400002</find>
+      <find>AlipayClient</find>
+      <find>wx-oauth-code-return</find>
+      <find>/wxjspay</find>
+      <find>a1f8e863-3117-48c4-9dd3-e9ddc2af90a8</find>
+      <find>f5eec3c1-4f05-40cd-964a-c8d44f342ab4</find>
+      <find>shanjupay.c2b.subject</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>f5eec3c1-4f05-40cd-964a-c8d44f342ab4</replace>
+      <replace>a1f8e863-3117-48c4-9dd3-e9ddc2af90a8</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/../../apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:/../../apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afbakFNxOZbEJ10wgQo4irwuXn" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579254273172" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3721683" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shanjupay.test.rocketmq.model" />
+      <recent name="com.shanjupay.test.rocketmq" />
+      <recent name="com.shanjupay.merchant.convert" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\teach\shanjupay\model2\code\shanjupay\shanjupay-payment-agent\shanjupay-payment-agent-service\src\main\java\com\shanjupay\paymentagent\config" />
+      <recent name="F:\teach\shanjupay\model2\code\shanjupay\test-rocketmq\rocketmq-consumer\src\main\resources" />
+      <recent name="F:\teach\shanjupay\model2\code\shanjupay\test-rocketmq\rocketmq-consumer\src\main\java" />
+      <recent name="F:\teach\shanjupay\model2\code\shanjupay\shanjupay-common\src\main\java\com\shanjupay\common\util" />
+      <recent name="F:\teach\shanjupay\model2\code\shanjupay\shanjupay-transaction\shanjupay-transaction-service\src\main\java\com\shanjupay\transaction\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TransactionBootstrap">
+    <configuration name="ProducerSimpleTest.testSendMsgByJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rocketmq-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.test.rocketmq.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.test.rocketmq.message" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.test.rocketmq.message.ProducerSimpleTest" />
+      <option name="METHOD_NAME" value="testSendMsgByJson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPayChannelAgentService.testQueryPayOrderByWeChat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-payment-agent-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.paymentagent.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.paymentagent.service" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.paymentagent.service.TestPayChannelAgentService" />
+      <option name="METHOD_NAME" value="testQueryPayOrderByWeChat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPayChannelAgentService.testqueryPayOrderByAli" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-payment-agent-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.paymentagent.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.paymentagent.service" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.paymentagent.service.TestPayChannelAgentService" />
+      <option name="METHOD_NAME" value="testqueryPayOrderByAli" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPayChannelService.testqueryPayChannelByPlatformChannel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-transaction-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.transaction" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.transaction.TestPayChannelService" />
+      <option name="METHOD_NAME" value="testqueryPayChannelByPlatformChannel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rocketmq-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.test.rocketmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.test.rocketmq.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.test.freemarker.FreemarkerTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="test">
+      <module name="shanjupay-gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.gateway.GatewayBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="test">
+      <module name="shanjupay-merchant-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantApplicationBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="test">
+      <module name="shanjupay-merchant-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentAgentBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="test">
+      <module name="shanjupay-payment-agent-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.paymentagent.PaymentAgentBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.test.rocketmq.ProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="test">
+      <module name="shanjupay-transaction-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.transaction.TransactionBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UAABootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="test">
+      <module name="shanjupay-uaa-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.uaa.UAABootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="test">
+      <module name="shanjupay-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.user.UserBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProducerSimpleTest.testSendMsgByJson" />
+      <item itemvalue="JUnit.TestPayChannelService.testqueryPayChannelByPlatformChannel" />
+      <item itemvalue="JUnit.TestPayChannelAgentService.testqueryPayOrderByAli" />
+      <item itemvalue="JUnit.TestPayChannelAgentService.testQueryPayOrderByWeChat" />
+      <item itemvalue="Spring Boot.GatewayBootstrap" />
+      <item itemvalue="Spring Boot.UserBootstrap" />
+      <item itemvalue="Spring Boot.UAABootstrap" />
+      <item itemvalue="Spring Boot.MerchantBootstrap" />
+      <item itemvalue="Spring Boot.MerchantApplicationBootstrap" />
+      <item itemvalue="Spring Boot.TransactionBootstrap" />
+      <item itemvalue="Spring Boot.PaymentAgentBootstrap" />
+      <item itemvalue="Spring Boot.ProducerApplication" />
+      <item itemvalue="Spring Boot.FreemarkerTestApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="JUnit.TestPayChannelAgentService.testQueryPayOrderByWeChat" />
+        <item itemvalue="JUnit.TestPayChannelAgentService.testqueryPayOrderByAli" />
+        <item itemvalue="JUnit.TestPayChannelService.testqueryPayChannelByPlatformChannel" />
+        <item itemvalue="JUnit.ProducerSimpleTest.testSendMsgByJson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+      <created>1571122367193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571122367193</updated>
+      <workItem from="1571122368559" duration="2074000" />
+      <workItem from="1571187766500" duration="1006000" />
+      <workItem from="1574317695353" duration="577000" />
+      <workItem from="1574318311412" duration="682000" />
+      <workItem from="1574404354823" duration="998000" />
+      <workItem from="1575159261400" duration="7131000" />
+      <workItem from="1575257365783" duration="596000" />
+      <workItem from="1575427654027" duration="1967000" />
+      <workItem from="1575462754133" duration="132000" />
+      <workItem from="1575513442706" duration="673000" />
+      <workItem from="1575597051388" duration="811000" />
+      <workItem from="1575944194251" duration="19000" />
+      <workItem from="1575945153860" duration="2193000" />
+      <workItem from="1576027729001" duration="2469000" />
+      <workItem from="1576143580930" duration="197000" />
+      <workItem from="1576205193006" duration="2000" />
+      <workItem from="1576477189794" duration="21000" />
+      <workItem from="1576477218244" duration="3000" />
+      <workItem from="1576653093681" duration="9000" />
+      <workItem from="1577368490115" duration="340000" />
+      <workItem from="1577369164668" duration="907000" />
+      <workItem from="1577514064457" duration="13000" />
+      <workItem from="1577523451161" duration="65562000" />
+      <workItem from="1577955463881" duration="1864000" />
+      <workItem from="1578022821273" duration="3490000" />
+      <workItem from="1578033969014" duration="599000" />
+      <workItem from="1578107695962" duration="598000" />
+      <workItem from="1578351600100" duration="2000" />
+      <workItem from="1578970066942" duration="85897000" />
+      <workItem from="1580697944788" duration="429000" />
+      <workItem from="1580698389637" duration="62000" />
+      <workItem from="1580700763734" duration="717000" />
+      <workItem from="1580701564221" duration="1295000" />
+      <workItem from="1580714541618" duration="5996000" />
+      <workItem from="1587129663222" duration="486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProducerSimpleTest_testSendSyncMsg - 2020.01.16 at 20h 56m 02s.xml">
+      <configuration name="ProducerSimpleTest.testSendSyncMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerSimpleTest_testSendASyncMsg - 2020.01.16 at 21h 15m 36s.xml">
+      <configuration name="ProducerSimpleTest.testSendASyncMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerSimpleTest_testSendMsgByJson - 2020.01.16 at 21h 22m 40s.xml">
+      <configuration name="ProducerSimpleTest.testSendMsgByJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerSimpleTest_testSendMsgByJson - 2020.01.16 at 21h 26m 35s.xml">
+      <configuration name="ProducerSimpleTest.testSendMsgByJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerSimpleTest_testSendMsgByJsonDelay - 2020.01.16 at 21h 35m 25s.xml">
+      <configuration name="ProducerSimpleTest.testSendMsgByJsonDelay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerSimpleTest_testSendMsgByJsonDelay - 2020.01.16 at 21h 36m 42s.xml">
+      <configuration name="ProducerSimpleTest.testSendMsgByJsonDelay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProducerSimpleTest_testSendMsgByJson - 2020.01.16 at 21h 43m 48s.xml">
+      <configuration name="ProducerSimpleTest.testSendMsgByJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPayChannelService_testqueryPayChannelByPlatformChannel - 2020.01.17 at 09h 51m 02s.xml">
+      <configuration name="TestPayChannelService.testqueryPayChannelByPlatformChannel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPayChannelAgentService_testqueryPayOrderByAli - 2020.01.17 at 09h 52m 09s.xml">
+      <configuration name="TestPayChannelAgentService.testqueryPayOrderByAli" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPayChannelAgentService_testQueryPayOrderByWeChat - 2020.01.17 at 17h 23m 37s.xml">
+      <configuration name="TestPayChannelAgentService.testQueryPayOrderByWeChat" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-service/src/test/java/com/shanjupay/transaction/TestPayChannelService.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shanjupay</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3721683" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.47</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

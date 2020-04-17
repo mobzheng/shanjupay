@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant-application/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-uaa/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-user/pom.xml" />
+        <option value="$PROJECT_DIR$/test-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-payment-agent/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-payment-agent/shanjupay-payment-agent-service/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rocketmq/rocketmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rocketmq/rocketmq-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
